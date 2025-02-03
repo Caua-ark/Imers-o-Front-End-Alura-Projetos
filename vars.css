@@ -1,0 +1,11 @@
+:root{
+    /* Colors */
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0,0,7);
+    --bg-search-color: #242424;  
+}
+
+@font-face {
+    font-family: Dm-Sans;
+    src: url(../assets/Fonts/DMSans-VariableFont_opsz\,wght.ttf);
+}
